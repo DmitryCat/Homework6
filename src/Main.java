@@ -14,7 +14,7 @@ public class Main {
         }
         // Задание 4
         for (int i = 10; i>-11; i=i-1) {
-            System.out.println("Выводим4 " + i);
+            System.out.println("Выводим44 " + i);
         }
         // Задание 5
         for (int i = 1904; i<2097; i=i+4) {
